@@ -1,0 +1,4 @@
+10 - 20 -  suma = 30 , multiplicacion = 200
+5 - 2 -  suma = 7 , multiplicacion = 10
+30 - 6 -  suma = 36 , multiplicacion = 180
+10 - 10 -  suma = 20 , multiplicacion = 100
